@@ -1,0 +1,19 @@
+
+<div class="form-group col-md-6">
+<div class="form-group">
+<table class="table table-bordered table-striped">
+<label for="&nbsp;">&nbsp;</label>
+<thead><th>Sender</th><th>Subject</th><th>View</th></thead>
+<tbody>
+<tr>
+<td><?=$email_ret['full_name']; ?></td>
+<td>Pogi mo po</td>
+<td>view</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>
+
+
